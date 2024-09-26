@@ -8,7 +8,7 @@ public class Admin {
     JFrame frame;
     private static final String url = "jdbc:mysql://localhost:3306/hospital";
     private static final String username = "root";
-    private static final String password = "Kushal@2004";
+    private static final String password = "password";//add your password
 
     public Admin() {
 
