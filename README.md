@@ -74,7 +74,7 @@ Patients Table
 Clone the project
 
 ```bash
-  git clone https:(https://github.com/KushalYKale/Hospital_Management_System.git)
+https://github.com/KushalYKale/Hospital_Management_System.git
 ```
 Install Java JDk(if not installed)
 
